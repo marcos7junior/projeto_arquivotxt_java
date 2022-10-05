@@ -3,7 +3,7 @@
  * Equipe:
  * 			Marcos Antonio
  * 			Filipe Pessoa Rodriguez		 
- * 
+ * 			Ana Vitória
  * 1 - Inserir nome no arquivo
  * 2 - Exibir todos os nomes do arquivo
  * 3 - Apagar todo o arquivo
